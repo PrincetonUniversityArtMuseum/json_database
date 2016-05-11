@@ -1,0 +1,2223 @@
+{
+"RECORDS":[
+{
+"AltNumID":13145,
+"ReferenceID":272,
+"Type":"Call Number",
+"AltNum":"(SA) ND553.C3 B3",
+"SysTimeStamp":"AAAAAAg9z6k="
+},
+{
+"AltNumID":13158,
+"ReferenceID":297,
+"Type":"Call Number",
+"AltNum":"(SA) ND653.G7F25 1970q",
+"SysTimeStamp":"AAAAAAg9z68="
+},
+{
+"AltNumID":13175,
+"ReferenceID":304,
+"Type":"Call Number",
+"AltNum":"(SA) ND553.T6J69",
+"SysTimeStamp":"AAAAAAg9z54="
+},
+{
+"AltNumID":13178,
+"ReferenceID":312,
+"Type":"Call Number",
+"AltNum":"(SA) ND553.M31 D9",
+"SysTimeStamp":"AAAAAAg9z58="
+},
+{
+"AltNumID":13179,
+"ReferenceID":333,
+"Type":"Call Number",
+"AltNum":"(SA) ND623.M75R9q",
+"SysTimeStamp":"AAAAAAg904s="
+},
+{
+"AltNumID":13181,
+"ReferenceID":359,
+"Type":"Call Number",
+"AltNum":"(Annex A) ND1259 .R21",
+"SysTimeStamp":"AAAAAAg92Q8="
+},
+{
+"AltNumID":13182,
+"ReferenceID":362,
+"Type":"Call Number",
+"AltNum":"(SA) ND553.C3V51",
+"SysTimeStamp":"AAAAAAg9z6g="
+},
+{
+"AltNumID":13183,
+"ReferenceID":369,
+"Type":"Call Number",
+"AltNum":"(SA) ND553.C3B16",
+"SysTimeStamp":"AAAAAAg9z5s="
+},
+{
+"AltNumID":17952,
+"ReferenceID":621,
+"Type":"Call Number",
+"AltNum":"N1 .A64q",
+"SysTimeStamp":"AAAAAAEKea8="
+},
+{
+"AltNumID":20391,
+"ReferenceID":988,
+"Type":"Call Number",
+"AltNum":"Recap Oversize Oversize N6450 .B8q",
+"SysTimeStamp":"AAAAAAEKcjI="
+},
+{
+"AltNumID":20392,
+"ReferenceID":401,
+"Type":"Call Number",
+"AltNum":"N6447 .C492 1967",
+"SysTimeStamp":"AAAAAAEKcjM="
+},
+{
+"AltNumID":20393,
+"ReferenceID":387,
+"Type":"Call Number",
+"AltNum":"ND553.C3 R6",
+"SysTimeStamp":"AAAAAAEKcjQ="
+},
+{
+"AltNumID":20395,
+"ReferenceID":1031,
+"Type":"Call Number",
+"AltNum":"ND547 .R38 2007",
+"SysTimeStamp":"AAAAAAEKcjU="
+},
+{
+"AltNumID":20396,
+"ReferenceID":1012,
+"Type":"Call Number",
+"AltNum":"Oversize ND553.C3 K781q",
+"SysTimeStamp":"AAAAAAEKcjY="
+},
+{
+"AltNumID":20397,
+"ReferenceID":389,
+"Type":"Call Number",
+"AltNum":"N5215.S67 N5",
+"SysTimeStamp":"AAAAAAEKcjc="
+},
+{
+"AltNumID":20399,
+"ReferenceID":1032,
+"Type":"Call Number",
+"AltNum":"Oversize N72.S3 E53 2009q",
+"SysTimeStamp":"AAAAAAEKcjg="
+},
+{
+"AltNumID":20400,
+"ReferenceID":199,
+"Type":"Call Number",
+"AltNum":"ND1356 .R544 2005",
+"SysTimeStamp":"AAAAAAEKcjk="
+},
+{
+"AltNumID":20401,
+"ReferenceID":1033,
+"Type":"Call Number",
+"AltNum":"Oversize N6460 1900 .R68 2000q",
+"SysTimeStamp":"AAAAAAEKcjo="
+},
+{
+"AltNumID":20402,
+"ReferenceID":391,
+"Type":"Call Number",
+"AltNum":"ND553.C3 R7",
+"SysTimeStamp":"AAAAAAEKcjs="
+},
+{
+"AltNumID":20403,
+"ReferenceID":393,
+"Type":"Call Number",
+"AltNum":"ND553.C3 F56",
+"SysTimeStamp":"AAAAAAEKcjw="
+},
+{
+"AltNumID":20404,
+"ReferenceID":1034,
+"Type":"Call Number",
+"AltNum":"Oversize ND553.C3 A4 2009q",
+"SysTimeStamp":"AAAAAAEKcj0="
+},
+{
+"AltNumID":20405,
+"ReferenceID":1035,
+"Type":"Call Number",
+"AltNum":"ND553.C3 A4 2008",
+"SysTimeStamp":"AAAAAAEKcj4="
+},
+{
+"AltNumID":20406,
+"ReferenceID":1036,
+"Type":"Call Number",
+"AltNum":"Oversize ND553.C3 C58 2006q",
+"SysTimeStamp":"AAAAAAEKcj8="
+},
+{
+"AltNumID":20407,
+"ReferenceID":1026,
+"Type":"Call Number",
+"AltNum":"ND553.C3 C32 1996q",
+"SysTimeStamp":"AAAAAAEKckA="
+},
+{
+"AltNumID":20408,
+"ReferenceID":1037,
+"Type":"Call Number",
+"AltNum":"ND553.C3 B384 2004",
+"SysTimeStamp":"AAAAAAEKckE="
+},
+{
+"AltNumID":20409,
+"ReferenceID":1023,
+"Type":"Call Number",
+"AltNum":"Oversize ND553.C3 B385 2000q",
+"SysTimeStamp":"AAAAAAEKckI="
+},
+{
+"AltNumID":20410,
+"ReferenceID":405,
+"Type":"Call Number",
+"AltNum":"(Annex A) ND553.D2 A7",
+"SysTimeStamp":"AAAAAAEKckM="
+},
+{
+"AltNumID":20411,
+"ReferenceID":1038,
+"Type":"Call Number",
+"AltNum":"ND553.D3 B463 2004",
+"SysTimeStamp":"AAAAAAEKckQ="
+},
+{
+"AltNumID":20412,
+"ReferenceID":409,
+"Type":"Call Number",
+"AltNum":"(SA) ND40.B18A3",
+"SysTimeStamp":"AAAAAAEKckU="
+},
+{
+"AltNumID":20413,
+"ReferenceID":408,
+"Type":"Call Number",
+"AltNum":"ND553.D3 W6",
+"SysTimeStamp":"AAAAAAEKckY="
+},
+{
+"AltNumID":20414,
+"ReferenceID":407,
+"Type":"Call Number",
+"AltNum":"(Annex A) ND553.D3 G22",
+"SysTimeStamp":"AAAAAAEKckc="
+},
+{
+"AltNumID":20415,
+"ReferenceID":1039,
+"Type":"Call Number",
+"AltNum":"ND653.G7 A3 2010",
+"SysTimeStamp":"AAAAAAEKckg="
+},
+{
+"AltNumID":20416,
+"ReferenceID":1040,
+"Type":"Call Number",
+"AltNum":"Oversize N8660.V6 C49 2006q",
+"SysTimeStamp":"AAAAAAEKckk="
+},
+{
+"AltNumID":20417,
+"ReferenceID":1042,
+"Type":"Call Number",
+"AltNum":"ND653.G7 P582",
+"SysTimeStamp":"AAAAAAEKcko="
+},
+{
+"AltNumID":20418,
+"ReferenceID":415,
+"Type":"Call Number",
+"AltNum":"(SA) ND653.G7V36",
+"SysTimeStamp":"AAAAAAEKcks="
+},
+{
+"AltNumID":20421,
+"ReferenceID":412,
+"Type":"Call Number",
+"AltNum":"ND653.G7 W54",
+"SysTimeStamp":"AAAAAAEKckw="
+},
+{
+"AltNumID":20422,
+"ReferenceID":411,
+"Type":"Call Number",
+"AltNum":"ND547.N47",
+"SysTimeStamp":"AAAAAAEKck0="
+},
+{
+"AltNumID":20423,
+"ReferenceID":410,
+"Type":"Call Number",
+"AltNum":"ND541 .P68",
+"SysTimeStamp":"AAAAAAEKck4="
+},
+{
+"AltNumID":20424,
+"ReferenceID":1043,
+"Type":"Call Number",
+"AltNum":"N6853.T6 A4 2003",
+"SysTimeStamp":"AAAAAAEKck8="
+},
+{
+"AltNumID":20425,
+"ReferenceID":1044,
+"Type":"Call Number",
+"AltNum":"Oversize ND553.T6 T684 1994q",
+"SysTimeStamp":"AAAAAAEKclA="
+},
+{
+"AltNumID":20426,
+"ReferenceID":1045,
+"Type":"Call Number",
+"AltNum":"ND553.T6 T345 1991q",
+"SysTimeStamp":"AAAAACAQcKE="
+},
+{
+"AltNumID":20427,
+"ReferenceID":1046,
+"Type":"Call Number",
+"AltNum":"ND547 .P6",
+"SysTimeStamp":"AAAAAAEKclI="
+},
+{
+"AltNumID":20428,
+"ReferenceID":1047,
+"Type":"Call Number",
+"AltNum":"ND553.T6 A85",
+"SysTimeStamp":"AAAAAAEKclM="
+},
+{
+"AltNumID":20429,
+"ReferenceID":1049,
+"Type":"Call Number",
+"AltNum":"N6853.T6 A4 1956",
+"SysTimeStamp":"AAAAAAEKclQ="
+},
+{
+"AltNumID":20430,
+"ReferenceID":1050,
+"Type":"Call Number",
+"AltNum":"ND553.T6 P4",
+"SysTimeStamp":"AAAAAAEKclU="
+},
+{
+"AltNumID":20432,
+"ReferenceID":416,
+"Type":"Call Number",
+"AltNum":"ND553.T6 A4 1914",
+"SysTimeStamp":"AAAAAAEKclY="
+},
+{
+"AltNumID":20433,
+"ReferenceID":1052,
+"Type":"Call Number",
+"AltNum":"N6853.T6 A4 2005q",
+"SysTimeStamp":"AAAAAAEKclc="
+},
+{
+"AltNumID":20434,
+"ReferenceID":1053,
+"Type":"Call Number",
+"AltNum":"ND553.T6 B3",
+"SysTimeStamp":"AAAAAAEKclg="
+},
+{
+"AltNumID":20435,
+"ReferenceID":1054,
+"Type":"Call Number",
+"AltNum":"ND553.M31 B46 2005",
+"SysTimeStamp":"AAAAAAEKclk="
+},
+{
+"AltNumID":20436,
+"ReferenceID":1055,
+"Type":"Call Number",
+"AltNum":"Oversize ND1316.5 .J65 1999q",
+"SysTimeStamp":"AAAAAAEKclo="
+},
+{
+"AltNumID":20437,
+"ReferenceID":1056,
+"Type":"Call Number",
+"AltNum":"ND553.M31P5",
+"SysTimeStamp":"AAAAAAEKcls="
+},
+{
+"AltNumID":20438,
+"ReferenceID":1059,
+"Type":"Call Number",
+"AltNum":"Oversize ND553.M31 P3q",
+"SysTimeStamp":"AAAAAAEKclw="
+},
+{
+"AltNumID":20439,
+"ReferenceID":1060,
+"Type":"Call Number",
+"AltNum":"ND553.P7 M28 2005",
+"SysTimeStamp":"AAAAAAEKcl0="
+},
+{
+"AltNumID":20440,
+"ReferenceID":212,
+"Type":"Call Number",
+"AltNum":"ND553.C3 P524 2005q",
+"SysTimeStamp":"AAAAAAEKcl4="
+},
+{
+"AltNumID":20441,
+"ReferenceID":1061,
+"Type":"Call Number",
+"AltNum":"Oversize ND1393.F85 I47 2001q",
+"SysTimeStamp":"AAAAAAEKcl8="
+},
+{
+"AltNumID":20442,
+"ReferenceID":1062,
+"Type":"Call Number",
+"AltNum":"Oversize ND553.P7 P697 1994q",
+"SysTimeStamp":"AAAAAAEKcmA="
+},
+{
+"AltNumID":20443,
+"ReferenceID":1063,
+"Type":"Call Number",
+"AltNum":"Oversize ND623.M75 K545 2004q",
+"SysTimeStamp":"AAAAAAEKcmE="
+},
+{
+"AltNumID":20444,
+"ReferenceID":1064,
+"Type":"Call Number",
+"AltNum":"ND553.C71 P34 2003",
+"SysTimeStamp":"AAAAAAEKcmI="
+},
+{
+"AltNumID":20445,
+"ReferenceID":1065,
+"Type":"Call Number",
+"AltNum":"Oversize ND623.M75 W396 2002q",
+"SysTimeStamp":"AAAAAAEKcmM="
+},
+{
+"AltNumID":20446,
+"ReferenceID":1066,
+"Type":"Call Number",
+"AltNum":"ND623.M75 A532 1999",
+"SysTimeStamp":"AAAAAAEKcmQ="
+},
+{
+"AltNumID":20447,
+"ReferenceID":1067,
+"Type":"Call Number",
+"AltNum":"Oversize ND623.M75 S42q",
+"SysTimeStamp":"AAAAAAEKcmU="
+},
+{
+"AltNumID":20448,
+"ReferenceID":1068,
+"Type":"Call Number",
+"AltNum":"Oversize N6918 .I86q",
+"SysTimeStamp":"AAAAAAEKcmY="
+},
+{
+"AltNumID":20449,
+"ReferenceID":1070,
+"Type":"Call Number",
+"AltNum":"(SA) ND1301 .M6",
+"SysTimeStamp":"AAAAAAEKcmc="
+},
+{
+"AltNumID":20450,
+"ReferenceID":1071,
+"Type":"Call Number",
+"AltNum":"(SA) ND623.M75 A7",
+"SysTimeStamp":"AAAAAAEKcmg="
+},
+{
+"AltNumID":20451,
+"ReferenceID":1072,
+"Type":"Call Number",
+"AltNum":"(Annex A) ND623.M75 B65",
+"SysTimeStamp":"AAAAAAEKcmk="
+},
+{
+"AltNumID":20452,
+"ReferenceID":1073,
+"Type":"Call Number",
+"AltNum":"Recap ND623.M75 A323",
+"SysTimeStamp":"AAAAAAEKcmo="
+},
+{
+"AltNumID":20453,
+"ReferenceID":1074,
+"Type":"Call Number",
+"AltNum":"(Annex A) Oversize Oversize ND623.M75 C49q",
+"SysTimeStamp":"AAAAAAEKcms="
+},
+{
+"AltNumID":20454,
+"ReferenceID":1075,
+"Type":"Call Number",
+"AltNum":"(SA) ND623.M75 N4",
+"SysTimeStamp":"AAAAAAEKcmw="
+},
+{
+"AltNumID":20455,
+"ReferenceID":1076,
+"Type":"Call Number",
+"AltNum":"(SA) N512.N5M85",
+"SysTimeStamp":"AAAAAAEKcm0="
+},
+{
+"AltNumID":20456,
+"ReferenceID":1077,
+"Type":"Call Number",
+"AltNum":"(SA) ND623.M75 C653 2002",
+"SysTimeStamp":"AAAAAAEKcm4="
+},
+{
+"AltNumID":20457,
+"ReferenceID":1078,
+"Type":"Call Number",
+"AltNum":"(SA) N6850.P385 2000",
+"SysTimeStamp":"AAAAAAEKcm8="
+},
+{
+"AltNumID":20458,
+"ReferenceID":1079,
+"Type":"Call Number",
+"AltNum":"(SA) N6850 .E28 2000",
+"SysTimeStamp":"AAAAAAEKcnA="
+},
+{
+"AltNumID":20459,
+"ReferenceID":1080,
+"Type":"Call Number",
+"AltNum":"(SA) ND700.S72 K433 1998",
+"SysTimeStamp":"AAAAAAEKcnE="
+},
+{
+"AltNumID":20460,
+"ReferenceID":1081,
+"Type":"Call Number",
+"AltNum":"(SA( ND700.S72 H644 1992",
+"SysTimeStamp":"AAAAAAEKcnI="
+},
+{
+"AltNumID":20461,
+"ReferenceID":1082,
+"Type":"Call Number",
+"AltNum":"(SA) ND700.S72 S68",
+"SysTimeStamp":"AAAAAAEKcnM="
+},
+{
+"AltNumID":20462,
+"ReferenceID":1083,
+"Type":"Call Number",
+"AltNum":"(SA) ND700.S72 G88",
+"SysTimeStamp":"AAAAAAEKcnQ="
+},
+{
+"AltNumID":20463,
+"ReferenceID":1084,
+"Type":"Call Number",
+"AltNum":"(SA) ND700.S72 M3q",
+"SysTimeStamp":"AAAAAAEKcnU="
+},
+{
+"AltNumID":20464,
+"ReferenceID":1085,
+"Type":"Call Number",
+"AltNum":"(SA) ND700.S72T8",
+"SysTimeStamp":"AAAAAAEKcnY="
+},
+{
+"AltNumID":20465,
+"ReferenceID":1086,
+"Type":"Call Number",
+"AltNum":"(SA) ND700.S72A7",
+"SysTimeStamp":"AAAAAAEKcnc="
+},
+{
+"AltNumID":20466,
+"ReferenceID":1087,
+"Type":"Call Number",
+"AltNum":"(SA) ND700.S72 W5",
+"SysTimeStamp":"AAAAAAEKcng="
+},
+{
+"AltNumID":20467,
+"ReferenceID":1088,
+"Type":"Call Number",
+"AltNum":"(SA) Oversize ND700.S72 A4 2008q",
+"SysTimeStamp":"AAAAAAEKcnk="
+},
+{
+"AltNumID":20468,
+"ReferenceID":1089,
+"Type":"Call Number",
+"AltNum":"(SA) Oversize ND700.S72 N377 2000q",
+"SysTimeStamp":"AAAAAAEKcno="
+},
+{
+"AltNumID":20469,
+"ReferenceID":1090,
+"Type":"Call Number",
+"AltNum":"(Annex A) ND40.M7 M81",
+"SysTimeStamp":"AAAAAAEKcns="
+},
+{
+"AltNumID":20470,
+"ReferenceID":1092,
+"Type":"Call Number",
+"AltNum":"(SA) Oversize ND700.S72 D86 2000q",
+"SysTimeStamp":"AAAAAAEKcnw="
+},
+{
+"AltNumID":20471,
+"ReferenceID":1093,
+"Type":"Call Number",
+"AltNum":"(SA) ND700.S72 C44 1995",
+"SysTimeStamp":"AAAAAAEKcn0="
+},
+{
+"AltNumID":20472,
+"ReferenceID":1096,
+"Type":"Call Number",
+"AltNum":"(SA) ND700.S72 C6q",
+"SysTimeStamp":"AAAAAAEKcn4="
+},
+{
+"AltNumID":20474,
+"ReferenceID":1100,
+"Type":"Call Number",
+"AltNum":"(SA) ND509.K78 H847 1994q",
+"SysTimeStamp":"AAAAAAEKcoA="
+},
+{
+"AltNumID":20475,
+"ReferenceID":1101,
+"Type":"Call Number",
+"AltNum":"(SA) ND509.K78 B3",
+"SysTimeStamp":"AAAAAAEKcoE="
+},
+{
+"AltNumID":20476,
+"ReferenceID":1103,
+"Type":"Call Number",
+"AltNum":"(Annex A) ND509.K78 A3",
+"SysTimeStamp":"AAAAAAEKcoI="
+},
+{
+"AltNumID":20477,
+"ReferenceID":1104,
+"Type":"Call Number",
+"AltNum":"(SA) ND553.G2 I837 2002",
+"SysTimeStamp":"AAAAAAEKcoM="
+},
+{
+"AltNumID":20478,
+"ReferenceID":1105,
+"Type":"Call Number",
+"AltNum":"(SA) ND553.G2 S6",
+"SysTimeStamp":"AAAAAAEKcoQ="
+},
+{
+"AltNumID":20479,
+"ReferenceID":1106,
+"Type":"Call Number",
+"AltNum":"(SA) N6490.P96",
+"SysTimeStamp":"AAAAAAEKcoU="
+},
+{
+"AltNumID":20480,
+"ReferenceID":1107,
+"Type":"Call Number",
+"AltNum":"(SA) ND553.G2 C4",
+"SysTimeStamp":"AAAAAAEKcoY="
+},
+{
+"AltNumID":20481,
+"ReferenceID":1108,
+"Type":"Call Number",
+"AltNum":"(SA) ND553.G2 P2",
+"SysTimeStamp":"AAAAAAEKcoc="
+},
+{
+"AltNumID":20482,
+"ReferenceID":1111,
+"Type":"Call Number",
+"AltNum":"(SA) ND553.G2 G3831 2001",
+"SysTimeStamp":"AAAAAAEKcog="
+},
+{
+"AltNumID":20483,
+"ReferenceID":1112,
+"Type":"Call Number",
+"AltNum":"(SA) ND553.G2 B82q",
+"SysTimeStamp":"AAAAAAEKcok="
+},
+{
+"AltNumID":20484,
+"ReferenceID":1115,
+"Type":"Call Number",
+"AltNum":"(SA) N6490 .B213",
+"SysTimeStamp":"AAAAAAEKcoo="
+},
+{
+"AltNumID":20485,
+"ReferenceID":1116,
+"Type":"Call Number",
+"AltNum":"(SA) NB 553.L66 C8",
+"SysTimeStamp":"AAAAAAEKcos="
+},
+{
+"AltNumID":20486,
+"ReferenceID":1117,
+"Type":"Call Number",
+"AltNum":"(SA) DS135.I8 G37 1989",
+"SysTimeStamp":"AAAAAAEKcow="
+},
+{
+"AltNumID":20487,
+"ReferenceID":1118,
+"Type":"Call Number",
+"AltNum":"(Recap) ND623.M75 A323",
+"SysTimeStamp":"AAAAAAg904k="
+},
+{
+"AltNumID":20488,
+"ReferenceID":390,
+"Type":"Call Number",
+"AltNum":"(SA) ND553.C3K83",
+"SysTimeStamp":"AAAAAAEKco4="
+},
+{
+"AltNumID":20557,
+"ReferenceID":1135,
+"Type":"Call Number",
+"AltNum":"ND553.C3 A6",
+"SysTimeStamp":"AAAAAAg9z50="
+},
+{
+"AltNumID":20558,
+"ReferenceID":1134,
+"Type":"Call Number",
+"AltNum":"N6853.C45 A4 2009b",
+"SysTimeStamp":"AAAAAAg9z5Y="
+},
+{
+"AltNumID":20559,
+"ReferenceID":1136,
+"Type":"Call Number",
+"AltNum":"ND553.C3 V6",
+"SysTimeStamp":"AAAAAAg9z6c="
+},
+{
+"AltNumID":20560,
+"ReferenceID":1139,
+"Type":"Call Number",
+"AltNum":"N5215 .R45",
+"SysTimeStamp":"AAAAAAg9z6M="
+},
+{
+"AltNumID":20561,
+"ReferenceID":1027,
+"Type":"Call Number",
+"AltNum":"Oversize ND553.C3 M25 1998q",
+"SysTimeStamp":"AAAAAAg9z5o="
+},
+{
+"AltNumID":20562,
+"ReferenceID":993,
+"Type":"Call Number",
+"AltNum":"ND553.C3 P2",
+"SysTimeStamp":"AAAAAAg9z5U="
+},
+{
+"AltNumID":20563,
+"ReferenceID":998,
+"Type":"Call Number",
+"AltNum":"ND553.C3 C4",
+"SysTimeStamp":"AAAAAAg9z5g="
+},
+{
+"AltNumID":20564,
+"ReferenceID":1021,
+"Type":"Call Number",
+"AltNum":"ND553.C3 R824 1999q",
+"SysTimeStamp":"AAAAAAg9z6Y="
+},
+{
+"AltNumID":20566,
+"ReferenceID":1020,
+"Type":"Call Number",
+"AltNum":"N5279.2.R43 S26 1998",
+"SysTimeStamp":"AAAAAAg9z5w="
+},
+{
+"AltNumID":20567,
+"ReferenceID":999,
+"Type":"Call Number",
+"AltNum":"ND553.C3 K7",
+"SysTimeStamp":"AAAAAAEKrv0="
+},
+{
+"AltNumID":20568,
+"ReferenceID":1022,
+"Type":"Call Number",
+"AltNum":"Oversize N8261.W27 A9 2000q",
+"SysTimeStamp":"AAAAAAg9z5c="
+},
+{
+"AltNumID":20574,
+"ReferenceID":1001,
+"Type":"Call Number",
+"AltNum":"ND553.C3 C6",
+"SysTimeStamp":"AAAAAAg9z5k="
+},
+{
+"AltNumID":20575,
+"ReferenceID":1142,
+"Type":"Call Number",
+"AltNum":"NC1130 .R74",
+"SysTimeStamp":"AAAAAAg9z6s="
+},
+{
+"AltNumID":20576,
+"ReferenceID":1144,
+"Type":"Call Number",
+"AltNum":"NC1060 .M67",
+"SysTimeStamp":"AAAAAAg9z6o="
+},
+{
+"AltNumID":20582,
+"ReferenceID":399,
+"Type":"Call Number",
+"AltNum":"(Annex A) N6847.P4",
+"SysTimeStamp":"AAAAAAEKu2g="
+},
+{
+"AltNumID":20583,
+"ReferenceID":269,
+"Type":"Call Number",
+"AltNum":"(SA) ND553.C3",
+"SysTimeStamp":"AAAAAAEKu2k="
+},
+{
+"AltNumID":20584,
+"ReferenceID":271,
+"Type":"Call Number",
+"AltNum":"(SA) ND553.C3 A31",
+"SysTimeStamp":"AAAAAAEKu2o="
+},
+{
+"AltNumID":20585,
+"ReferenceID":388,
+"Type":"Call Number",
+"AltNum":"(SA) ND553.C3S19",
+"SysTimeStamp":"AAAAAAEKu2s="
+},
+{
+"AltNumID":20586,
+"ReferenceID":1033,
+"Type":"ISBN",
+"AltNum":"0810943034",
+"SysTimeStamp":"AAAAAAEKu2w="
+},
+{
+"AltNumID":20587,
+"ReferenceID":986,
+"Type":"Call Number",
+"AltNum":"(SA) ND553.C3N8",
+"SysTimeStamp":"AAAAAAEKu20="
+},
+{
+"AltNumID":20588,
+"ReferenceID":273,
+"Type":"Call Number",
+"AltNum":"(SA) ND553.C3M3",
+"SysTimeStamp":"AAAAAAEKu24="
+},
+{
+"AltNumID":20589,
+"ReferenceID":275,
+"Type":"Call Number",
+"AltNum":"(SA) ND553.C3L8q",
+"SysTimeStamp":"AAAAAAEKu28="
+},
+{
+"AltNumID":20590,
+"ReferenceID":292,
+"Type":"Call Number",
+"AltNum":"(SA) N1.C75",
+"SysTimeStamp":"AAAAAAEKu3A="
+},
+{
+"AltNumID":20593,
+"ReferenceID":78,
+"Type":"Call Number",
+"AltNum":"ND553.C3 A832 2003",
+"SysTimeStamp":"AAAAAAEKu3M="
+},
+{
+"AltNumID":20594,
+"ReferenceID":295,
+"Type":"Call Number",
+"AltNum":"(SA) N1.A747q",
+"SysTimeStamp":"AAAAAAEKu3Q="
+},
+{
+"AltNumID":20595,
+"ReferenceID":458,
+"Type":"Call Number",
+"AltNum":"(SA) N1.S93",
+"SysTimeStamp":"AAAAAAEKu3U="
+},
+{
+"AltNumID":20596,
+"ReferenceID":276,
+"Type":"Call Number",
+"AltNum":"(SAX) ND553.C3V81q",
+"SysTimeStamp":"AAAAAAEKu3Y="
+},
+{
+"AltNumID":20598,
+"ReferenceID":278,
+"Type":"Call Number",
+"AltNum":"(SA) ND553.D2F9q",
+"SysTimeStamp":"AAAAAAEKu3c="
+},
+{
+"AltNumID":20599,
+"ReferenceID":279,
+"Type":"Call Number",
+"AltNum":"(F) 3942.78.313",
+"SysTimeStamp":"AAAAAAEKu3g="
+},
+{
+"AltNumID":20600,
+"ReferenceID":280,
+"Type":"Call Number",
+"AltNum":"(RECAP) 6295.877",
+"SysTimeStamp":"AAAAAAEKu3k="
+},
+{
+"AltNumID":20601,
+"ReferenceID":281,
+"Type":"Call Number",
+"AltNum":"(F) 3942.78.932",
+"SysTimeStamp":"AAAAAAEKu3o="
+},
+{
+"AltNumID":20602,
+"ReferenceID":282,
+"Type":"Call Number",
+"AltNum":"(SA) ND553.D2M3",
+"SysTimeStamp":"AAAAAAEKu3s="
+},
+{
+"AltNumID":20603,
+"ReferenceID":286,
+"Type":"Call Number",
+"AltNum":"(SA) ND553.D3L5q",
+"SysTimeStamp":"AAAAAAEKu3w="
+},
+{
+"AltNumID":20604,
+"ReferenceID":287,
+"Type":"Call Number",
+"AltNum":"(Annex A) ND553.D3M51q",
+"SysTimeStamp":"AAAAAAEKu30="
+},
+{
+"AltNumID":20608,
+"ReferenceID":288,
+"Type":"Call Number",
+"AltNum":"(SA) ND653.G7A42q",
+"SysTimeStamp":"AAAAAAEKu34="
+},
+{
+"AltNumID":20609,
+"ReferenceID":297,
+"Type":"Call Number",
+"AltNum":"(SA) ND653.G7A36",
+"SysTimeStamp":"AAAAAAEKu38="
+},
+{
+"AltNumID":20610,
+"ReferenceID":298,
+"Type":"Call Number",
+"AltNum":"(SA) N3.K74",
+"SysTimeStamp":"AAAAAAEKu4A="
+},
+{
+"AltNumID":20611,
+"ReferenceID":289,
+"Type":"Call Number",
+"AltNum":"(SA) ND653.G7A46",
+"SysTimeStamp":"AAAAAAEKu4E="
+},
+{
+"AltNumID":20612,
+"ReferenceID":411,
+"Type":"Call Number",
+"AltNum":"(SA) ND547.N47",
+"SysTimeStamp":"AAAAAAEKu4I="
+},
+{
+"AltNumID":20613,
+"ReferenceID":299,
+"Type":"Call Number",
+"AltNum":"(SA) ND653.G7E7",
+"SysTimeStamp":"AAAAAAEKu4M="
+},
+{
+"AltNumID":20614,
+"ReferenceID":413,
+"Type":"Call Number",
+"AltNum":"(Annex A) ND40.N5M91q",
+"SysTimeStamp":"AAAAAAEKu4Q="
+},
+{
+"AltNumID":20615,
+"ReferenceID":300,
+"Type":"Call Number",
+"AltNum":"(SA) ND547.R322",
+"SysTimeStamp":"AAAAAAEKu4U="
+},
+{
+"AltNumID":20616,
+"ReferenceID":301,
+"Type":"Call Number",
+"AltNum":"(Annex A) ND653.G7A49",
+"SysTimeStamp":"AAAAAAEKu4Y="
+},
+{
+"AltNumID":20617,
+"ReferenceID":302,
+"Type":"Call Number",
+"AltNum":"(SA) NB623.R76B2",
+"SysTimeStamp":"AAAAAAEKu4c="
+},
+{
+"AltNumID":20619,
+"ReferenceID":305,
+"Type":"Call Number",
+"AltNum":"(SA) N512.C53",
+"SysTimeStamp":"AAAAAAEKu4k="
+},
+{
+"AltNumID":20620,
+"ReferenceID":419,
+"Type":"Call Number",
+"AltNum":"(SA) N512.C53A31",
+"SysTimeStamp":"AAAAAAEKu4o="
+},
+{
+"AltNumID":20621,
+"ReferenceID":307,
+"Type":"Call Number",
+"AltNum":"(SA) ND553.T6A33",
+"SysTimeStamp":"AAAAAAEKu4s="
+},
+{
+"AltNumID":20622,
+"ReferenceID":308,
+"Type":"Call Number",
+"AltNum":"(SA) ND553.T6M15",
+"SysTimeStamp":"AAAAAAEKu4w="
+},
+{
+"AltNumID":20623,
+"ReferenceID":310,
+"Type":"Call Number",
+"AltNum":"(SA) ND553.T6G2",
+"SysTimeStamp":"AAAAAAEKu40="
+},
+{
+"AltNumID":20624,
+"ReferenceID":311,
+"Type":"Call Number",
+"AltNum":"(SA) ND553.T6P4",
+"SysTimeStamp":"AAAAAAEKu44="
+},
+{
+"AltNumID":20625,
+"ReferenceID":22,
+"Type":"Call Number",
+"AltNum":"ND547 .W397 2002",
+"SysTimeStamp":"AAAAAAEKu48="
+},
+{
+"AltNumID":20626,
+"ReferenceID":66,
+"Type":"Call Number",
+"AltNum":"ND553.P6 S834 2001",
+"SysTimeStamp":"AAAAAAEKu5A="
+},
+{
+"AltNumID":20629,
+"ReferenceID":314,
+"Type":"Call Number",
+"AltNum":"(SA) ND553.M31M65",
+"SysTimeStamp":"AAAAAAEKu5E="
+},
+{
+"AltNumID":20630,
+"ReferenceID":315,
+"Type":"Call Number",
+"AltNum":"(SA) ND553.M31T12",
+"SysTimeStamp":"AAAAAAEKu5I="
+},
+{
+"AltNumID":20631,
+"ReferenceID":317,
+"Type":"Call Number",
+"AltNum":"(SA) ND553.M31A3q",
+"SysTimeStamp":"AAAAAAEKu5M="
+},
+{
+"AltNumID":20632,
+"ReferenceID":316,
+"Type":"Call Number",
+"AltNum":"(SA) ND553.M31C6 1932q",
+"SysTimeStamp":"AAAAAAEKu5Q="
+},
+{
+"AltNumID":20633,
+"ReferenceID":318,
+"Type":"Call Number",
+"AltNum":"(SA) ND553.M31R3q",
+"SysTimeStamp":"AAAAAAEKu5U="
+},
+{
+"AltNumID":20634,
+"ReferenceID":319,
+"Type":"Call Number",
+"AltNum":"(SA) ND553.M31T14",
+"SysTimeStamp":"AAAAAAEKu5Y="
+},
+{
+"AltNumID":20635,
+"ReferenceID":320,
+"Type":"Call Number",
+"AltNum":"(SA) N6490.D82",
+"SysTimeStamp":"AAAAAAEKu5c="
+},
+{
+"AltNumID":20636,
+"ReferenceID":322,
+"Type":"Call Number",
+"AltNum":"(SA) ND553.P7P7 1939q",
+"SysTimeStamp":"AAAAAAEKu5g="
+},
+{
+"AltNumID":20638,
+"ReferenceID":4,
+"Type":"Call Number",
+"AltNum":"ND553.P7 P699 2005q",
+"SysTimeStamp":"AAAAAAEKu5k="
+},
+{
+"AltNumID":20639,
+"ReferenceID":323,
+"Type":"Call Number",
+"AltNum":"ND553.S62D27q",
+"SysTimeStamp":"AAAAAB/9iAs="
+},
+{
+"AltNumID":20640,
+"ReferenceID":324,
+"Type":"Call Number",
+"AltNum":"(SA) ND623.M75S2",
+"SysTimeStamp":"AAAAAAEKu5s="
+},
+{
+"AltNumID":20641,
+"ReferenceID":326,
+"Type":"Call Number",
+"AltNum":"(Annex A) ND623.M75P4",
+"SysTimeStamp":"AAAAAAEKu5w="
+},
+{
+"AltNumID":20642,
+"ReferenceID":327,
+"Type":"Call Number",
+"AltNum":"(SA) ND547.W65",
+"SysTimeStamp":"AAAAAAEKu50="
+},
+{
+"AltNumID":20643,
+"ReferenceID":328,
+"Type":"Call Number",
+"AltNum":"(Annex A) ND623.M75L6",
+"SysTimeStamp":"AAAAAAEKu54="
+},
+{
+"AltNumID":20644,
+"ReferenceID":332,
+"Type":"Call Number",
+"AltNum":"(SA) ND623.M75C3q",
+"SysTimeStamp":"AAAAAAEKu58="
+},
+{
+"AltNumID":20645,
+"ReferenceID":385,
+"Type":"Call Number",
+"AltNum":"(SA) ND623.M75C32q",
+"SysTimeStamp":"AAAAAAEKu6A="
+},
+{
+"AltNumID":20646,
+"ReferenceID":334,
+"Type":"Call Number",
+"AltNum":"(SA) ND623.M75W3q",
+"SysTimeStamp":"AAAAAAEKu6E="
+},
+{
+"AltNumID":20647,
+"ReferenceID":335,
+"Type":"Call Number",
+"AltNum":"(SA) ND623.M75S5",
+"SysTimeStamp":"AAAAAAEKu6I="
+},
+{
+"AltNumID":20648,
+"ReferenceID":336,
+"Type":"Call Number",
+"AltNum":"(F) 3240.579.936",
+"SysTimeStamp":"AAAAAAEKu6M="
+},
+{
+"AltNumID":20649,
+"ReferenceID":337,
+"Type":"Call Number",
+"AltNum":"(F) MICROFILM S00664",
+"SysTimeStamp":"AAAAAAEKu6Q="
+},
+{
+"AltNumID":20650,
+"ReferenceID":340,
+"Type":"Call Number",
+"AltNum":"(SA) NC1060.J62",
+"SysTimeStamp":"AAAAAAEKu6U="
+},
+{
+"AltNumID":20651,
+"ReferenceID":343,
+"Type":"Call Number",
+"AltNum":"(SA) ND160.R19q",
+"SysTimeStamp":"AAAAAAEKu6Y="
+},
+{
+"AltNumID":20652,
+"ReferenceID":342,
+"Type":"Call Number",
+"AltNum":"(SA) ND700.S72A3f",
+"SysTimeStamp":"AAAAAAEKu6c="
+},
+{
+"AltNumID":20653,
+"ReferenceID":345,
+"Type":"Call Number",
+"AltNum":"(F) ND160.R18q",
+"SysTimeStamp":"AAAAAAEKu6g="
+},
+{
+"AltNumID":20654,
+"ReferenceID":344,
+"Type":"Call Number",
+"AltNum":"(Annex A) ND700.S72S9",
+"SysTimeStamp":"AAAAAAEKu6k="
+},
+{
+"AltNumID":20655,
+"ReferenceID":347,
+"Type":"Call Number",
+"AltNum":"(SA) ND700.S72C66q",
+"SysTimeStamp":"AAAAAAEKu6o="
+},
+{
+"AltNumID":20656,
+"ReferenceID":461,
+"Type":"Call Number",
+"AltNum":"(F) MICROFILM S00664",
+"SysTimeStamp":"AAAAAAEKu6s="
+},
+{
+"AltNumID":20657,
+"ReferenceID":348,
+"Type":"Call Number",
+"AltNum":"(SA) N1.A763q",
+"SysTimeStamp":"AAAAAAEKu6w="
+},
+{
+"AltNumID":20659,
+"ReferenceID":349,
+"Type":"Call Number",
+"AltNum":"(Annex A) ND700.S72C6q",
+"SysTimeStamp":"AAAAAAEKu64="
+},
+{
+"AltNumID":20660,
+"ReferenceID":350,
+"Type":"Call Number",
+"AltNum":"(F) (Film) MICROFILM S00236",
+"SysTimeStamp":"AAAAAAEKu68="
+},
+{
+"AltNumID":20661,
+"ReferenceID":351,
+"Type":"Call Number",
+"AltNum":"(Annex A) ND509.K78M32",
+"SysTimeStamp":"AAAAAAEKu7A="
+},
+{
+"AltNumID":20662,
+"ReferenceID":352,
+"Type":"Call Number",
+"AltNum":"(SA) ND509.K78A4q",
+"SysTimeStamp":"AAAAAAEKu7E="
+},
+{
+"AltNumID":20663,
+"ReferenceID":381,
+"Type":"Call Number",
+"AltNum":"(SA) ND553.G2G73",
+"SysTimeStamp":"AAAAAAEKu7I="
+},
+{
+"AltNumID":20664,
+"ReferenceID":462,
+"Type":"Call Number",
+"AltNum":"(SA) N2.A37q",
+"SysTimeStamp":"AAAAAAEKu7M="
+},
+{
+"AltNumID":20665,
+"ReferenceID":384,
+"Type":"Call Number",
+"AltNum":"(SA) ND623.M75W4q",
+"SysTimeStamp":"AAAAAAEKu7Q="
+},
+{
+"AltNumID":20670,
+"ReferenceID":28,
+"Type":"Call Number",
+"AltNum":"N6494.C8 C694 2000",
+"SysTimeStamp":"AAAAAAEKu7Y="
+},
+{
+"AltNumID":21566,
+"ReferenceID":1238,
+"Type":"ISBN",
+"AltNum":"385497146X",
+"SysTimeStamp":"AAAAAAEKppE="
+},
+{
+"AltNumID":21821,
+"ReferenceID":199,
+"Type":"ISBN",
+"AltNum":"2891922816",
+"SysTimeStamp":"AAAAAAEKwHQ="
+},
+{
+"AltNumID":21823,
+"ReferenceID":1306,
+"Type":"ISBN",
+"AltNum":"9781845115197",
+"SysTimeStamp":"AAAAAAEKwHU="
+},
+{
+"AltNumID":21825,
+"ReferenceID":1308,
+"Type":"ISBN",
+"AltNum":"9782711854189",
+"SysTimeStamp":"AAAAAAEKwHc="
+},
+{
+"AltNumID":21826,
+"ReferenceID":1309,
+"Type":"Call Number",
+"AltNum":"ND623.M75 B44 2008",
+"SysTimeStamp":"AAAAAAg9z6U="
+},
+{
+"AltNumID":21827,
+"ReferenceID":1310,
+"Type":"ISBN",
+"AltNum":"9782903656454",
+"SysTimeStamp":"AAAAAAEKwHk="
+},
+{
+"AltNumID":21829,
+"ReferenceID":1312,
+"Type":"ISBN",
+"AltNum":"9780500238653",
+"SysTimeStamp":"AAAAAAEKwHo="
+},
+{
+"AltNumID":21848,
+"ReferenceID":1318,
+"Type":"ISBN",
+"AltNum":"9781467542737",
+"SysTimeStamp":"AAAAAAEKwHw="
+},
+{
+"AltNumID":21951,
+"ReferenceID":1335,
+"Type":"ISSN",
+"AltNum":"1168-3252",
+"SysTimeStamp":"AAAAAAEKwH0="
+},
+{
+"AltNumID":21957,
+"ReferenceID":1336,
+"Type":"ISBN",
+"AltNum":"1-880908-10-7",
+"SysTimeStamp":"AAAAAAEKwH4="
+},
+{
+"AltNumID":21959,
+"ReferenceID":1337,
+"Type":"ISBN",
+"AltNum":"1851709657",
+"SysTimeStamp":"AAAAAAEKwH8="
+},
+{
+"AltNumID":21960,
+"ReferenceID":1338,
+"Type":"ISBN",
+"AltNum":"4-532-12033-0",
+"SysTimeStamp":"AAAAAAEKwIA="
+},
+{
+"AltNumID":21965,
+"ReferenceID":1340,
+"Type":"ISBN",
+"AltNum":"0-521-43251-0",
+"SysTimeStamp":"AAAAAAEKwIE="
+},
+{
+"AltNumID":21966,
+"ReferenceID":1341,
+"Type":"ISBN",
+"AltNum":"0-295-963-67-0",
+"SysTimeStamp":"AAAAAAg91sg="
+},
+{
+"AltNumID":21968,
+"ReferenceID":1343,
+"Type":"ISBN",
+"AltNum":"0903162601",
+"SysTimeStamp":"AAAAAAEKwIQ="
+},
+{
+"AltNumID":21969,
+"ReferenceID":1344,
+"Type":"ISBN",
+"AltNum":"3-7913-1484-x",
+"SysTimeStamp":"AAAAAAEKwIU="
+},
+{
+"AltNumID":21970,
+"ReferenceID":1345,
+"Type":"ISBN",
+"AltNum":"0-88363-492-9",
+"SysTimeStamp":"AAAAAAEKwIY="
+},
+{
+"AltNumID":21971,
+"ReferenceID":1346,
+"Type":"ISBN",
+"AltNum":"0-679-40963-7",
+"SysTimeStamp":"AAAAAAEKwIc="
+},
+{
+"AltNumID":21972,
+"ReferenceID":1347,
+"Type":"ISBN",
+"AltNum":"2-85025-247-6",
+"SysTimeStamp":"AAAAAAEKwIg="
+},
+{
+"AltNumID":21973,
+"ReferenceID":1348,
+"Type":"ISBN",
+"AltNum":"0-88363-786-3",
+"SysTimeStamp":"AAAAAAg92Q4="
+},
+{
+"AltNumID":21974,
+"ReferenceID":1349,
+"Type":"ISBN",
+"AltNum":"0198175051",
+"SysTimeStamp":"AAAAAAEKwIo="
+},
+{
+"AltNumID":21975,
+"ReferenceID":1350,
+"Type":"ISBN",
+"AltNum":"2850881015",
+"SysTimeStamp":"AAAAAAEKwIs="
+},
+{
+"AltNumID":21976,
+"ReferenceID":1351,
+"Type":"ISBN",
+"AltNum":"0810937247",
+"SysTimeStamp":"AAAAAAEKwIw="
+},
+{
+"AltNumID":21977,
+"ReferenceID":1352,
+"Type":"ISBN",
+"AltNum":"8835501520",
+"SysTimeStamp":"AAAAAAg904o="
+},
+{
+"AltNumID":21978,
+"ReferenceID":1353,
+"Type":"ISBN",
+"AltNum":"3492029930",
+"SysTimeStamp":"AAAAAAEKwI4="
+},
+{
+"AltNumID":21979,
+"ReferenceID":1354,
+"Type":"ISBN",
+"AltNum":"0807118230",
+"SysTimeStamp":"AAAAAAEKwI8="
+},
+{
+"AltNumID":21980,
+"ReferenceID":1356,
+"Type":"ISBN",
+"AltNum":"2 85025 400 2",
+"SysTimeStamp":"AAAAAAEKwJA="
+},
+{
+"AltNumID":21981,
+"ReferenceID":1357,
+"Type":"ISBN",
+"AltNum":"978-3-8365-1271-8",
+"SysTimeStamp":"AAAAAAEKwJE="
+},
+{
+"AltNumID":21982,
+"ReferenceID":1358,
+"Type":"ISBN",
+"AltNum":"075251 151 3",
+"SysTimeStamp":"AAAAAAEKwJI="
+},
+{
+"AltNumID":21983,
+"ReferenceID":1359,
+"Type":"ISBN",
+"AltNum":"9784096060254",
+"SysTimeStamp":"AAAAAAEKwJM="
+},
+{
+"AltNumID":21984,
+"ReferenceID":1360,
+"Type":"ISBN",
+"AltNum":"9784061897915",
+"SysTimeStamp":"AAAAAAEKwJQ="
+},
+{
+"AltNumID":21985,
+"ReferenceID":1361,
+"Type":"ISSN",
+"AltNum":"0293 9274",
+"SysTimeStamp":"AAAAAAEKwJU="
+},
+{
+"AltNumID":21994,
+"ReferenceID":1363,
+"Type":"ISBN",
+"AltNum":"978-0-8173-1647-1",
+"SysTimeStamp":"AAAAAAEKwJY="
+},
+{
+"AltNumID":22040,
+"ReferenceID":1381,
+"Type":"ISBN",
+"AltNum":"0-300-05443-2",
+"SysTimeStamp":"AAAAAAEKwJc="
+},
+{
+"AltNumID":22041,
+"ReferenceID":1382,
+"Type":"ISBN",
+"AltNum":"0-394-559185",
+"SysTimeStamp":"AAAAAAEKwJg="
+},
+{
+"AltNumID":25318,
+"ReferenceID":824,
+"Type":"ISBN",
+"AltNum":"9788836618873 8836618871",
+"SysTimeStamp":"AAAAAAEKdT4="
+},
+{
+"AltNumID":25320,
+"ReferenceID":1305,
+"Type":"ISBN",
+"AltNum":"9780300148848 0300148844",
+"SysTimeStamp":"AAAAAAEKdT8="
+},
+{
+"AltNumID":25363,
+"ReferenceID":1720,
+"Type":"Call Number",
+"AltNum":"ND547 .W54",
+"SysTimeStamp":"AAAAAAg9z6Q="
+},
+{
+"AltNumID":26980,
+"ReferenceID":1769,
+"Type":"Call Number",
+"AltNum":"Oversize ND653.G7 V564 2003q",
+"SysTimeStamp":"AAAAAAg9z60="
+},
+{
+"AltNumID":27195,
+"ReferenceID":1783,
+"Type":"Call Number",
+"AltNum":"Oversize ND653.G7 W433 1999q",
+"SysTimeStamp":"AAAAAAg9z6w="
+},
+{
+"AltNumID":27425,
+"ReferenceID":1296,
+"Type":"ISBN",
+"AltNum":"9780300179811",
+"SysTimeStamp":"AAAAABuhv1Q="
+},
+{
+"AltNumID":46401,
+"ReferenceID":3137,
+"Type":"ISBN",
+"AltNum":"978-0942642117",
+"SysTimeStamp":"AAAAAAz6IZM="
+},
+{
+"AltNumID":47331,
+"ReferenceID":475,
+"Type":"Call Number",
+"AltNum":"N6505 .E28q",
+"SysTimeStamp":"AAAAABdare8="
+},
+{
+"AltNumID":49115,
+"ReferenceID":1296,
+"Type":"ISBN",
+"AltNum":"0300179812",
+"SysTimeStamp":"AAAAABuhwKY="
+},
+{
+"AltNumID":49116,
+"ReferenceID":1296,
+"Type":"Call Number",
+"AltNum":"NK5107 .A63 2012q",
+"SysTimeStamp":"AAAAABuhwf4="
+},
+{
+"AltNumID":49134,
+"ReferenceID":2661,
+"Type":"Call Number",
+"AltNum":"NK3780.P8",
+"SysTimeStamp":"AAAAABvNxGM="
+},
+{
+"AltNumID":49198,
+"ReferenceID":3138,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/12058189",
+"SysTimeStamp":"AAAAABv/Yas="
+},
+{
+"AltNumID":49214,
+"ReferenceID":3137,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/11594626",
+"SysTimeStamp":"AAAAABv/bq4="
+},
+{
+"AltNumID":49223,
+"ReferenceID":2675,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/7835984",
+"SysTimeStamp":"AAAAABv/l2k="
+},
+{
+"AltNumID":49224,
+"ReferenceID":2598,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/38841382",
+"SysTimeStamp":"AAAAABv/nvg="
+},
+{
+"AltNumID":49225,
+"ReferenceID":2731,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/85623073",
+"SysTimeStamp":"AAAAABv/nvw="
+},
+{
+"AltNumID":49226,
+"ReferenceID":2795,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/3223610",
+"SysTimeStamp":"AAAAABv/nv4="
+},
+{
+"AltNumID":49279,
+"ReferenceID":2538,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/13186418",
+"SysTimeStamp":"AAAAABwCpWU="
+},
+{
+"AltNumID":49281,
+"ReferenceID":2586,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/81863553",
+"SysTimeStamp":"AAAAABwCpWg="
+},
+{
+"AltNumID":49286,
+"ReferenceID":1296,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/794814337",
+"SysTimeStamp":"AAAAABwCr/E="
+},
+{
+"AltNumID":49347,
+"ReferenceID":1982,
+"Type":"Call Number",
+"AltNum":"TR654 .W475 1982q",
+"SysTimeStamp":"AAAAABxxm6I="
+},
+{
+"AltNumID":49348,
+"ReferenceID":1982,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/220158223",
+"SysTimeStamp":"AAAAABxxn70="
+},
+{
+"AltNumID":49566,
+"ReferenceID":3137,
+"Type":"Call Number",
+"AltNum":"Oversize NK4005 .M68q",
+"SysTimeStamp":"AAAAAB0T48c="
+},
+{
+"AltNumID":49842,
+"ReferenceID":410,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/3291789",
+"SysTimeStamp":"AAAAAB1tMAs="
+},
+{
+"AltNumID":49913,
+"ReferenceID":4172,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/888427069",
+"SysTimeStamp":"AAAAAB123i4="
+},
+{
+"AltNumID":50194,
+"ReferenceID":1090,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/3252120",
+"SysTimeStamp":"AAAAAB2XhEI="
+},
+{
+"AltNumID":50380,
+"ReferenceID":1994,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/865020505",
+"SysTimeStamp":"AAAAAB26PM8="
+},
+{
+"AltNumID":50409,
+"ReferenceID":1755,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/10848276",
+"SysTimeStamp":"AAAAAB29RHE="
+},
+{
+"AltNumID":50411,
+"ReferenceID":1755,
+"Type":"Call Number",
+"AltNum":"N6512 .S41",
+"SysTimeStamp":"AAAAAB29RHM="
+},
+{
+"AltNumID":50841,
+"ReferenceID":1641,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/1733876",
+"SysTimeStamp":"AAAAAB3bHG4="
+},
+{
+"AltNumID":50842,
+"ReferenceID":1641,
+"Type":"Call Number",
+"AltNum":"ND1390 .F57 1975",
+"SysTimeStamp":"AAAAAB3bHG8="
+},
+{
+"AltNumID":50925,
+"ReferenceID":2689,
+"Type":null,
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/862152372",
+"SysTimeStamp":"AAAAAB3c6zI="
+},
+{
+"AltNumID":51550,
+"ReferenceID":2636,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/835392097",
+"SysTimeStamp":"AAAAAB4v4CI="
+},
+{
+"AltNumID":51551,
+"ReferenceID":2635,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/835392141",
+"SysTimeStamp":"AAAAAB4v5MY="
+},
+{
+"AltNumID":51552,
+"ReferenceID":2567,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/804680",
+"SysTimeStamp":"AAAAAB4v564="
+},
+{
+"AltNumID":51554,
+"ReferenceID":2623,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/911828286",
+"SysTimeStamp":"AAAAAB4wb8E="
+},
+{
+"AltNumID":51557,
+"ReferenceID":2564,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/312391816",
+"SysTimeStamp":"AAAAAB4wdCg="
+},
+{
+"AltNumID":51558,
+"ReferenceID":2715,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/28597902",
+"SysTimeStamp":"AAAAAB4wfRY="
+},
+{
+"AltNumID":52597,
+"ReferenceID":1056,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/264262",
+"SysTimeStamp":"AAAAAB9RArU="
+},
+{
+"AltNumID":52601,
+"ReferenceID":317,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/3290776",
+"SysTimeStamp":"AAAAAB9RFnA="
+},
+{
+"AltNumID":52606,
+"ReferenceID":1350,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/419254275",
+"SysTimeStamp":"AAAAAB9RW3I="
+},
+{
+"AltNumID":52607,
+"ReferenceID":1350,
+"Type":"Call Number",
+"AltNum":"ND553.M31 D37 1991q",
+"SysTimeStamp":"AAAAAB9RW3M="
+},
+{
+"AltNumID":52608,
+"ReferenceID":1763,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/9557679",
+"SysTimeStamp":"AAAAAB9RYL8="
+},
+{
+"AltNumID":52609,
+"ReferenceID":1763,
+"Type":"Call Number",
+"AltNum":"ND553.M31 M36",
+"SysTimeStamp":"AAAAAB9RYMI="
+},
+{
+"AltNumID":52610,
+"ReferenceID":1763,
+"Type":"ISBN",
+"AltNum":"0870993496",
+"SysTimeStamp":"AAAAAB9RYME="
+},
+{
+"AltNumID":52633,
+"ReferenceID":1019,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/37663150",
+"SysTimeStamp":"AAAAAB9VENY="
+},
+{
+"AltNumID":52634,
+"ReferenceID":1019,
+"Type":"Call Number",
+"AltNum":"N6847 .P76 1997q",
+"SysTimeStamp":"AAAAAB9VENc="
+},
+{
+"AltNumID":52635,
+"ReferenceID":1019,
+"Type":"ISBN",
+"AltNum":"0870998374",
+"SysTimeStamp":"AAAAAB9VENg="
+},
+{
+"AltNumID":52636,
+"ReferenceID":1019,
+"Type":"ISBN",
+"AltNum":"0870998382",
+"SysTimeStamp":"AAAAAB9VEOI="
+},
+{
+"AltNumID":52684,
+"ReferenceID":2719,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/11469730",
+"SysTimeStamp":"AAAAAB9kLGQ="
+},
+{
+"AltNumID":52685,
+"ReferenceID":2719,
+"Type":"Call Number",
+"AltNum":"N510 .V36q",
+"SysTimeStamp":"AAAAAB9kMTU="
+},
+{
+"AltNumID":53266,
+"ReferenceID":1696,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/878770717",
+"SysTimeStamp":"AAAAAB/9h/8="
+},
+{
+"AltNumID":53267,
+"ReferenceID":1696,
+"Type":"Call Number",
+"AltNum":"ND553.C3 A4 2014q",
+"SysTimeStamp":"AAAAAB/9iAE="
+},
+{
+"AltNumID":53268,
+"ReferenceID":1696,
+"Type":"ISBN",
+"AltNum":"9780300174403",
+"SysTimeStamp":"AAAAAB/9iAI="
+},
+{
+"AltNumID":53269,
+"ReferenceID":1696,
+"Type":"ISBN",
+"AltNum":"0300174403",
+"SysTimeStamp":"AAAAAB/9iAM="
+},
+{
+"AltNumID":53270,
+"ReferenceID":323,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/66789437",
+"SysTimeStamp":"AAAAAB/9iAo="
+},
+{
+"AltNumID":53347,
+"ReferenceID":2003,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/5659353",
+"SysTimeStamp":"AAAAACAQajU="
+},
+{
+"AltNumID":53348,
+"ReferenceID":2003,
+"Type":"Call Number",
+"AltNum":"ND553.T6 S79q",
+"SysTimeStamp":"AAAAACAQajY="
+},
+{
+"AltNumID":53350,
+"ReferenceID":1045,
+"Type":"ISBN",
+"AltNum":"0300051905",
+"SysTimeStamp":"AAAAACAQcIY="
+},
+{
+"AltNumID":53351,
+"ReferenceID":1045,
+"Type":"ISBN",
+"AltNum":"0300051964",
+"SysTimeStamp":"AAAAACAQcLg="
+},
+{
+"AltNumID":53352,
+"ReferenceID":1045,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/25065014",
+"SysTimeStamp":"AAAAACAQcLk="
+},
+{
+"AltNumID":53357,
+"ReferenceID":1627,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/396342",
+"SysTimeStamp":"AAAAACASPK4="
+},
+{
+"AltNumID":53358,
+"ReferenceID":1627,
+"Type":"Call Number",
+"AltNum":"ND553.T6 D6q",
+"SysTimeStamp":"AAAAACASPK8="
+},
+{
+"AltNumID":53359,
+"ReferenceID":1627,
+"Type":"ISBN",
+"AltNum":"0876810458",
+"SysTimeStamp":"AAAAACASPLA="
+},
+{
+"AltNumID":53360,
+"ReferenceID":2007,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/3929358",
+"SysTimeStamp":"AAAAACASQ0o="
+},
+{
+"AltNumID":53361,
+"ReferenceID":2007,
+"Type":"Call Number",
+"AltNum":"ND553.T6 C32q",
+"SysTimeStamp":"AAAAACASQ0s="
+},
+{
+"AltNumID":53364,
+"ReferenceID":1349,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/23941018",
+"SysTimeStamp":"AAAAACASSD4="
+},
+{
+"AltNumID":53365,
+"ReferenceID":1349,
+"Type":"Call Number",
+"AltNum":"ND553.T6 M87",
+"SysTimeStamp":"AAAAACASSD8="
+},
+{
+"AltNumID":54036,
+"ReferenceID":999,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/1010777",
+"SysTimeStamp":"AAAAACIMDy0="
+},
+{
+"AltNumID":54040,
+"ReferenceID":1009,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/10146993",
+"SysTimeStamp":"AAAAACIM4ew="
+},
+{
+"AltNumID":54041,
+"ReferenceID":1009,
+"Type":"Call Number",
+"AltNum":"ND553.C3 A383q",
+"SysTimeStamp":"AAAAACIM4fo="
+},
+{
+"AltNumID":54042,
+"ReferenceID":1009,
+"Type":"ISBN",
+"AltNum":"3770113462",
+"SysTimeStamp":"AAAAACIM4fs="
+},
+{
+"AltNumID":54048,
+"ReferenceID":1618,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/18598514",
+"SysTimeStamp":"AAAAACIOc3I="
+},
+{
+"AltNumID":54049,
+"ReferenceID":1618,
+"Type":"Call Number",
+"AltNum":"ND553.C3 K46q",
+"SysTimeStamp":"AAAAACIOfz8="
+},
+{
+"AltNumID":54050,
+"ReferenceID":1618,
+"Type":"ISBN",
+"AltNum":"0356158578",
+"SysTimeStamp":"AAAAACIOf0I="
+},
+{
+"AltNumID":54084,
+"ReferenceID":1287,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/727701616",
+"SysTimeStamp":"AAAAACIb16Q="
+},
+{
+"AltNumID":54085,
+"ReferenceID":1287,
+"Type":"Call Number",
+"AltNum":"ND553.D3 A4 2011b",
+"SysTimeStamp":"AAAAACIb16U="
+},
+{
+"AltNumID":54086,
+"ReferenceID":1287,
+"Type":"ISBN",
+"AltNum":"9780878467730",
+"SysTimeStamp":"AAAAACIb16Y="
+},
+{
+"AltNumID":54087,
+"ReferenceID":1287,
+"Type":"ISBN",
+"AltNum":"0878467734",
+"SysTimeStamp":"AAAAACIb16c="
+},
+{
+"AltNumID":54088,
+"ReferenceID":1287,
+"Type":"Previous number",
+"AltNum":"R 4845",
+"SysTimeStamp":"AAAAACIb164="
+},
+{
+"AltNumID":54092,
+"ReferenceID":1602,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/369305144",
+"SysTimeStamp":"AAAAACIb7BQ="
+},
+{
+"AltNumID":54093,
+"ReferenceID":1602,
+"Type":"Call Number",
+"AltNum":"ND553.D3 B63q",
+"SysTimeStamp":"AAAAACIb7BU="
+},
+{
+"AltNumID":54094,
+"ReferenceID":1602,
+"Type":"ISBN",
+"AltNum":"0870995197",
+"SysTimeStamp":"AAAAACIb7BY="
+},
+{
+"AltNumID":54095,
+"ReferenceID":1602,
+"Type":"ISBN",
+"AltNum":"0870995200",
+"SysTimeStamp":"AAAAACIb7Bk="
+},
+{
+"AltNumID":54107,
+"ReferenceID":1368,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/24589997",
+"SysTimeStamp":"AAAAACIiJ7s="
+},
+{
+"AltNumID":54110,
+"ReferenceID":1368,
+"Type":"Call Number",
+"AltNum":"ND553.D3 K46",
+"SysTimeStamp":"AAAAACIiJ8I="
+},
+{
+"AltNumID":54111,
+"ReferenceID":1368,
+"Type":"Call Number",
+"AltNum":"ND553.D3 K46 1992b",
+"SysTimeStamp":"AAAAACIiJ8M="
+},
+{
+"AltNumID":54138,
+"ReferenceID":263,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/2136968",
+"SysTimeStamp":"AAAAACIihjs="
+},
+{
+"AltNumID":54139,
+"ReferenceID":263,
+"Type":"Call Number",
+"AltNum":"NC1150 .G52",
+"SysTimeStamp":"AAAAACIihj4="
+},
+{
+"AltNumID":54150,
+"ReferenceID":1855,
+"Type":"WorldCat",
+"AltNum":"http:\/\/www.worldcat.org\/oclc\/869726410",
+"SysTimeStamp":"AAAAACIimlQ="
+},
+{
+"AltNumID":54151,
+"ReferenceID":1855,
+"Type":"Call Number",
+"AltNum":"N714.D7 I73 2014q",
+"SysTimeStamp":"AAAAACIipHg="
+},
+{
+"AltNumID":54152,
+"ReferenceID":1855,
+"Type":"ISBN",
+"AltNum":"9780943012049",
+"SysTimeStamp":"AAAAACIimlg="
+},
+{
+"AltNumID":54153,
+"ReferenceID":1855,
+"Type":"ISBN",
+"AltNum":"094301204X",
+"SysTimeStamp":"AAAAACIimlk="
+}
+]
+}
